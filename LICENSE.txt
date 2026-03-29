@@ -12,7 +12,7 @@ Copyright (c) MachineBrains, Ltd. All rights reserved.
 
 Definitions
 "Software" means the source code made available under this licence.
-"Current copyright owner" means the legal entity identified in the repository's top-level notice or governance document as owning the Software.
+"Current copyright owner" means the legal entity identified in the repository’s top-level notice or governance document as owning the Software.
 "Repository" means the primary source code repository designated by the current copyright owner as the authoritative record.
 "Open Source License" means the Apache License 2.0 unless otherwise stated.
 
