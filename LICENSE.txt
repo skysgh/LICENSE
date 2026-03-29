@@ -1,0 +1,82 @@
+Title
+Blue Sky Source Availability License (Time-Delayed Open Release) v1.0
+
+Background
+This licence is a source-available licence designed to balance commercial protection with long-term openness. It is inspired by the principles of the Business Source License, particularly time-delayed conversion to an open source licence, but it is not the BSL and does not follow its standard form.
+
+Intent
+The intent of this licence is to allow inspection and contribution, prevent competitive use while the software is actively developed, and guarantee eventual release under an open source licence.
+
+Copyright
+Copyright (c) MachineBrains, Ltd. All rights reserved.
+
+Definitions
+“Software” means the source code made available under this licence.
+“Current copyright owner” means the legal entity identified in the repository’s top-level notice or governance document as owning the Software.
+“Repository” means the primary source code repository designated by the current copyright owner as the authoritative record.
+“Open Source License” means the Apache License 2.0 unless otherwise stated.
+
+Grant of rights
+You are permitted to view, clone, and inspect the Software for any purpose, including government, commercial, and private evaluation. You may submit modifications, enhancements, or fixes to the current copyright owner. Contributions may be accepted or rejected at the sole discretion of the current copyright owner.
+
+Restrictions
+You may not use the Software, in whole or in part, to build, offer, or operate a product or service that is substantially similar to, or competes with, any product or service offered by the current copyright owner.
+You may not redistribute the Software or derivative works except as expressly permitted by the current copyright owner.
+
+Time-delayed licence conversion
+Each individual source file becomes licensed under the Open Source License four years after the most recent modification date recorded for that file in the Repository.
+
+For the purpose of this licence, the authoritative record of modification is the commit history of the Repository.
+
+All files will convert no later than eight years after their first publication in the Repository, regardless of subsequent modification.
+
+Trigger events for full open release
+Notwithstanding the above, all source code becomes immediately licensed under the Open Source License if any of the following occur.
+
+If active development or support of the Software ceases for a continuous period of twelve months.
+
+If the current copyright owner enters liquidation, administration, or any equivalent insolvency process.
+
+If, following a change of control, the Software is no longer actively maintained, or is no longer made publicly available for licensing or use for a continuous period of twelve months.
+
+Change of control
+A change in ownership or control of the current copyright owner does not, by itself, trigger licence conversion, provided that the acquiring entity continues to make the Software available and actively maintained on substantially the same basis.
+
+Effect of conversion
+Once a file or the Software as a whole has converted to the Open Source License, it may be used, modified, and redistributed in accordance with that licence, including for commercial purposes.
+
+Contributions
+By submitting a contribution, you grant the current copyright owner a perpetual, worldwide, non-exclusive, royalty-free licence to use, modify, and distribute that contribution as part of the Software.
+
+You retain copyright in your contribution.
+
+Inbound equals outbound. Contributions are licensed to all recipients under the same terms as the Software under this licence. This ensures that all users can continue to use, modify, and rely on the Software without fragmentation of rights.
+
+Contributor assurance
+By submitting a contribution, you represent that you have the legal right to grant the above licence for that contribution, including where the contribution is made on behalf of an employer or other entity.
+
+Successors and continuity
+All rights granted to the current copyright owner under this licence automatically transfer to any successor entity that acquires ownership or control of the Software.
+
+Any such successor is bound by all terms of this licence, including all time-delayed conversion provisions and trigger events. These obligations run with the Software and cannot be removed, delayed, or redefined.
+
+No override
+No current or future copyright owner may impose additional restrictions on any portion of the Software already distributed under this licence, nor alter or prevent any scheduled or triggered conversion to the Open Source License.
+
+Irrevocability
+This licence is perpetual and irrevocable for all versions of the Software once published.
+
+Limitation of liability
+To the maximum extent permitted by law, the current copyright owner shall not be liable for any claim, damages, or other liability, whether in contract, tort, or otherwise, arising from or related to the Software or its use or inability to be used.
+
+No responsibility for use
+The Software is provided for general purposes only. The current copyright owner has no control over and accepts no responsibility for how the Software is used by any party.
+
+No warranty
+The Software is provided “as is”, without warranty of any kind.
+
+Governing law
+This licence is governed by the laws of a jurisdiction nominated by the current copyright owner in the Repository.
+
+Entire agreement
+This licence constitutes the entire agreement relating to the Software and supersedes any prior statements or agreements.
