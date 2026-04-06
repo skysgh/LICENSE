@@ -1,5 +1,5 @@
 Title
-Blue Sky Source Availability License (Time-Delayed Open Release) v1.0
+Blue Sky Source Availability License (Time-Delayed Open Release) Version 1.0
 
 Background
 This licence is a source-available licence designed to balance commercial protection with long-term openness. It is inspired by the principles of the Business Source License, particularly time-delayed conversion to an open source licence, but it is not the BSL and does not follow its standard form.
@@ -11,10 +11,10 @@ Copyright
 Copyright (c) MachineBrains, Ltd. All rights reserved.
 
 Definitions
-“Software” means the source code made available under this licence.
-“Current copyright owner” means the legal entity identified in the repository’s top-level notice or governance document as owning the Software.
-“Repository” means the primary source code repository designated by the current copyright owner as the authoritative record.
-“Open Source License” means the Apache License 2.0 unless otherwise stated.
+"Software" means the source code made available under this licence.
+"Current copyright owner" means the legal entity identified in the repository’s top-level notice or governance document as owning the Software.
+"Repository" means the primary source code repository designated by the current copyright owner as the authoritative record.
+"Open Source License" means the Apache License 2.0 unless otherwise stated.
 
 Grant of rights
 You are permitted to view, clone, and inspect the Software for any purpose, including government, commercial, and private evaluation. You may submit modifications, enhancements, or fixes to the current copyright owner. Contributions may be accepted or rejected at the sole discretion of the current copyright owner.
@@ -73,7 +73,7 @@ No responsibility for use
 The Software is provided for general purposes only. The current copyright owner has no control over and accepts no responsibility for how the Software is used by any party.
 
 No warranty
-The Software is provided “as is”, without warranty of any kind.
+The Software is provided "as is", without warranty of any kind.
 
 Governing law
 This licence is governed by the laws of a jurisdiction nominated by the current copyright owner in the Repository.
